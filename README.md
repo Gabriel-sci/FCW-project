@@ -1,10 +1,14 @@
 # Frontal Collision Warning project - python
+![Imagem1](https://github.com/Gabriel-sci/FCW-project/assets/125495002/1df43293-93ed-4fab-976c-068b6c16234d)
+
+
 This Project is part of a undergraduate research on DRIVING ASSISTANCE SYSTEM TO REDUCE TRAFFIC ACCIDENTS BY MEANS OF COLLISION AVOIDANCE ALERTS, promoted by Mackenzie Presbyterian University.
 
-The goal of this study is to develop a low cost embeeded system with Raspberry Pi 4 using Yolov5 with the Pi camera for object detection.
+The goal of this study is to develop a low cost embeeded collision warning system with Raspberry Pi 4 using Yolov5 with the Pi camera for object detection.
+To do so the relative speed (km/h) with other vehicles is calculated by the system.
 
-To test the programm, download the yolov5 required packages through the cmd, 
-using this command: #pip install -r https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
+To test the program, download the yolov5 required packages through the cmd, 
+using this command: pip install -r https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
 
 The code developed is in the application.py file.
 
