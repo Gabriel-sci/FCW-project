@@ -4,7 +4,7 @@
 
 This Project is part of a undergraduate research on DRIVING ASSISTANCE SYSTEM TO REDUCE TRAFFIC ACCIDENTS BY MEANS OF COLLISION AVOIDANCE ALERTS, promoted by Mackenzie Presbyterian University.
 
-The goal of this study is to develop a low cost embeeded collision warning system with Raspberry Pi 4 using Yolov5 with the Pi camera for object detection.
+The goal of this study is to develop a low cost, embeeded collision warning system, with Raspberry Pi 4 using Yolov5 with the Pi camera, for object detection.
 To do so the relative speed (km/h) with other vehicles is calculated by the system.
 
 To test the program, download the yolov5 required packages through the cmd, 
