@@ -31,10 +31,10 @@ fps_smooth = 0.0
 speed_values = []
 
 #carregar o modelo
-model = torch.hub.load('Ultralytics/yolov5', 'custom', 'D:\\IC\\pesos\\bestn.onnx', force_reload=True)
+model = torch.hub.load('Ultralytics/yolov5', 'custom', 'INSERT PATH TO MODEL HERE', force_reload=True)
 
 #carregar o video
-cap = cv2.VideoCapture('D:\\Video_embarcado_3_edit.mp4')
+cap = cv2.VideoCapture('INSERT PATH TO VIDEO, OR CAMERA INDEX HERE')
 
 while True:
     
